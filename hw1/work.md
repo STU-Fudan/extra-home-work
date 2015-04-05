@@ -10,4 +10,4 @@
 
 1. http://tieba.baidu.com/p/3134763829?fr=ala0&pstaala=1 ，看完这个帖子之后用一句话或者一个词简述什么是“神奇海螺教”, 并且仔细阅读15-18L,特别是16L的图。
 
-2. 在github.com上面注册一个账号(不会的话可以看: http://redmine.ossxp.com/doc/gotgithub/02-join-github/010-account-setup.html  )，并在  https://github.com/STU-Fudan/extra-home-work/issues   上添加一个新的issue，issue的内容包括你的部分，你的姓名以及对“神奇海螺教”的简述。
+2. 在github.com上面注册一个账号(不会的话可以看: http://redmine.ossxp.com/doc/gotgithub/02-join-github/010-account-setup.html  )，并在  https://github.com/STU-Fudan/extra-home-work/issues   上添加一个新的issue，issue的内容包括你的部门，你的姓名以及对“神奇海螺教”的简述。
